@@ -3976,7 +3976,7 @@
                   "security",
                   "pip"
                 ],
-                "security-severity": "undefined"
+                "security-severity": "0"
               }
             }
           ]
@@ -4143,7 +4143,7 @@
                   "security",
                   "gomodules"
                 ],
-                "security-severity": "undefined"
+                "security-severity": "0"
               }
             },
             {
@@ -4166,7 +4166,7 @@
                   "security",
                   "gomodules"
                 ],
-                "security-severity": "undefined"
+                "security-severity": "0"
               }
             },
             {
@@ -4189,7 +4189,7 @@
                   "security",
                   "gomodules"
                 ],
-                "security-severity": "undefined"
+                "security-severity": "0"
               }
             },
             {
@@ -4212,7 +4212,7 @@
                   "security",
                   "gomodules"
                 ],
-                "security-severity": "undefined"
+                "security-severity": "0"
               }
             },
             {
@@ -4235,7 +4235,7 @@
                   "security",
                   "gomodules"
                 ],
-                "security-severity": "undefined"
+                "security-severity": "0"
               }
             },
             {
@@ -4258,7 +4258,7 @@
                   "security",
                   "gomodules"
                 ],
-                "security-severity": "undefined"
+                "security-severity": "0"
               }
             },
             {
@@ -4281,7 +4281,7 @@
                   "security",
                   "gomodules"
                 ],
-                "security-severity": "undefined"
+                "security-severity": "0"
               }
             },
             {
@@ -4304,7 +4304,7 @@
                   "security",
                   "gomodules"
                 ],
-                "security-severity": "undefined"
+                "security-severity": "0"
               }
             },
             {
@@ -4327,7 +4327,7 @@
                   "security",
                   "gomodules"
                 ],
-                "security-severity": "undefined"
+                "security-severity": "0"
               }
             },
             {
@@ -4350,7 +4350,7 @@
                   "security",
                   "gomodules"
                 ],
-                "security-severity": "undefined"
+                "security-severity": "0"
               }
             },
             {
@@ -4373,7 +4373,7 @@
                   "security",
                   "gomodules"
                 ],
-                "security-severity": "undefined"
+                "security-severity": "0"
               }
             },
             {
@@ -4396,7 +4396,7 @@
                   "security",
                   "gomodules"
                 ],
-                "security-severity": "undefined"
+                "security-severity": "0"
               }
             }
           ]
