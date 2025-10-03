@@ -13,8 +13,8 @@ jobs:
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
         with:
+          args: --sarif-file-output=snyk.sarif
           image: snyk/snyk:golang-1.24
-          sarif: true
       - name: Upload result to GitHub Code Scanning
         uses: github/codeql-action/upload-sarif@v3
         with:
