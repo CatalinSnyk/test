@@ -6,8 +6,8 @@
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 207
@@ -3940,17 +3940,29 @@
             }
           ]
         }
-      ],
-      "automationDetails": {
-        "id": "Snyk/Container/docker-image|snyk/snyk/2025-10-03T12:39:36.146Z"
-      }
+      ]
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
+          "informationUri": "https://docs.snyk.io/",
+          "properties": {
+            "artifactsScanned": 42
+          },
+          "rules": []
+        }
+      },
+      "results": []
+    },
+    {
+      "tool": {
+        "driver": {
+          "name": "Snyk Container",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 1
@@ -3976,7 +3988,7 @@
                   "security",
                   "pip"
                 ],
-                "security-severity": "0"
+                "security-severity": "undefined"
               }
             }
           ]
@@ -4007,17 +4019,14 @@
             }
           ]
         }
-      ],
-      "automationDetails": {
-        "id": "Snyk/Container//usr/lib/python3/dist-packages/mercurial/helptext/internals/requirements.txt/2025-10-03T12:39:36.147Z"
-      }
+      ]
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 1039
@@ -4787,17 +4796,14 @@
             }
           ]
         }
-      ],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@command-line-arguments/2025-10-03T12:39:36.147Z"
-      }
+      ]
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -4805,17 +4811,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/gofmt/2025-10-03T12:39:36.148Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -4823,17 +4826,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/cgo/2025-10-03T12:39:36.149Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -4841,17 +4841,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/compile/2025-10-03T12:39:36.149Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -4859,17 +4856,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/covdata/2025-10-03T12:39:36.149Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -4877,17 +4871,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/cover/2025-10-03T12:39:36.149Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -4895,17 +4886,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/doc/2025-10-03T12:39:36.150Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -4913,17 +4901,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/fix/2025-10-03T12:39:36.150Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -4931,17 +4916,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/link/2025-10-03T12:39:36.151Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -4949,17 +4931,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/nm/2025-10-03T12:39:36.151Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -4967,17 +4946,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/objdump/2025-10-03T12:39:36.151Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -4985,17 +4961,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/pack/2025-10-03T12:39:36.151Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -5003,17 +4976,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/pprof/2025-10-03T12:39:36.151Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -5021,17 +4991,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/preprofile/2025-10-03T12:39:36.151Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -5039,17 +5006,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/test2json/2025-10-03T12:39:36.152Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -5057,17 +5021,14 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/trace/2025-10-03T12:39:36.152Z"
-      }
+      "results": []
     },
     {
       "tool": {
         "driver": {
           "name": "Snyk Container",
-          "semanticVersion": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
-          "version": "1.1300.0-preview.c54c8f2c6a18693d365f10013e1850619d6ceb22",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
           "informationUri": "https://docs.snyk.io/",
           "properties": {
             "artifactsScanned": 0
@@ -5075,10 +5036,67 @@
           "rules": []
         }
       },
-      "results": [],
-      "automationDetails": {
-        "id": "Snyk/Container/go-distribution@cmd/vet/2025-10-03T12:39:36.152Z"
-      }
+      "results": []
+    },
+    {
+      "tool": {
+        "driver": {
+          "name": "Snyk Container",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
+          "informationUri": "https://docs.snyk.io/",
+          "properties": {
+            "artifactsScanned": 0
+          },
+          "rules": []
+        }
+      },
+      "results": []
+    },
+    {
+      "tool": {
+        "driver": {
+          "name": "Snyk Container",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
+          "informationUri": "https://docs.snyk.io/",
+          "properties": {
+            "artifactsScanned": 0
+          },
+          "rules": []
+        }
+      },
+      "results": []
+    },
+    {
+      "tool": {
+        "driver": {
+          "name": "Snyk Container",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
+          "informationUri": "https://docs.snyk.io/",
+          "properties": {
+            "artifactsScanned": 0
+          },
+          "rules": []
+        }
+      },
+      "results": []
+    },
+    {
+      "tool": {
+        "driver": {
+          "name": "Snyk Container",
+          "semanticVersion": "1.1298.1",
+          "version": "1.1298.1",
+          "informationUri": "https://docs.snyk.io/",
+          "properties": {
+            "artifactsScanned": 0
+          },
+          "rules": []
+        }
+      },
+      "results": []
     }
   ]
 }
